@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathan</h1>
 <h3 align="center">A passionate full-stack engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [CodeMart](https://github.com/TiveCS/codemart-t3-client)
+- 🔭 I’m currently working on [AMDA](https://github.com/TiveCS/amda)
 
-- 🌱 I’m currently learning **Echo framework**
+- 🌱 I’m currently learning **Laravel framework**
 
 - 💬 Ask me about **Nest.js and Spigot Development**
 
