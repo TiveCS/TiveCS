@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [SIABDES](https://github.com/SIABDES)
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **SvelteKit and Go**
 
-- 💬 Ask me about **Nest.js and Spigot Development**
+- 💬 Ask me about **Nest.js and Spigot Plugin Development**
 
 - 📫 How to reach me **ahmadfathanhanif@gmail.com**
 
