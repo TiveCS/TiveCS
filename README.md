@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+<h3>My Tech Stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -72,6 +72,7 @@
 
 ###
 
+<h3>Contact Me</h3>
 <div align="left">
   <a href="https://discordapp.com/users/620182190872854538" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
