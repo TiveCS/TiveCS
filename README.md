@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReqLink Project](https://github.com/SIABDES)
 
-- 🌱 I’m currently learning **System Design and Microservices**
+- 🌱 I’m currently learning **System Design, Nginx and Microservices**
 
 - 💬 Ask me about **NestJs, Next.js or Spigot Plugin Development**
 
