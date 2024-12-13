@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fathan</h1>
 <h3 align="center">A passionate full-stack engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [SIABDES](https://github.com/SIABDES)
+- 🔭 I’m currently working on [ReqLink Project](https://github.com/SIABDES)
 
-- 🌱 I’m currently learning **SvelteKit and Go**
+- 🌱 I’m currently learning **System Design and Microservices**
 
-- 💬 Ask me about **Nest.js and Spigot Plugin Development**
+- 💬 Ask me about **NestJs, Next.js or Spigot Plugin Development**
 
 - 📫 How to reach me **ahmadfathanhanif@gmail.com**
 
